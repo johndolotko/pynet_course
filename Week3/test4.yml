@@ -1,0 +1,24 @@
+---
+- some_string
+- "some string with multiple words"
+- null
+# Booleans
+- True
+- False
+- true
+- false
+- on
+- off
+- yes
+- no
+# Strings with boolean that don't want interpreted as boolean command
+- 'yes'
+- |
+  This is a multiline string in YAML.
+  It can keep going across
+  different lines.
+- >
+  This is a multiline string in YAML.
+  It can keep going across
+  different lines.
+

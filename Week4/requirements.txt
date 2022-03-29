@@ -48,7 +48,7 @@ netaddr==0.7.19
 -e git+https://github.com/ktbyers/netmiko@067ae7e0a45cf8bddb61c79710b89aed7fee7879#egg=netmiko
 nornir==2.1.1
 nxapi-plumbing==0.5.2
-paramiko==2.4.2
+paramiko==2.10.1
 parso==0.3.4
 passlib==1.7.1
 pbr==5.1.3

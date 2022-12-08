@@ -8,7 +8,7 @@ backcall==0.1.0
 bcrypt==3.1.6
 bigsuds==1.0.6
 black==19.3b0
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 ciscoconfparse==1.3.32
